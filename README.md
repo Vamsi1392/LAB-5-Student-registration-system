@@ -14,8 +14,23 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 
+## USECASE DIAGRAM:
+![image](https://github.com/user-attachments/assets/cc5757a9-c776-41cf-93f9-4bef328d43bd)
 
+## CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/dca0fde6-c94c-4e8b-ad14-eaad26e2d137)
 
+## SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/e8026fd8-e119-4537-9c0d-337e367d10cd)
+
+## ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/79fe7c80-aa27-40ad-ac5e-71e23fec0302)
+
+## COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/f02bfd2e-b842-44bc-abbf-1cef8cc15120)
+
+## PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/af84dd04-62cf-482c-8600-1802caf984b9)
 
 
 ### RESULT:
